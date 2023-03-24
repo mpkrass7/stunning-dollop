@@ -1,0 +1,10 @@
+filename: 'data/lending_club_data.csv'
+dataset_id: '636564642ae5b2e91fc2041b'
+project_id: '636531005eb6f4ed4ea4335b'
+model_id: '636531620e554a617b934ba8'
+n: 15
+deployment_id: '63653293e91bd8dc391c1c34'
+sample: 0.1
+grouping_feature: 'purpose'
+date: 'earliest_cr_line'
+columns:

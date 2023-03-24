@@ -1,0 +1,24 @@
+filename: 'data/Cloud Churn Month 3 2022_11_28 Latest.csv'
+dataset_id: '6384ee348a2d9c4baccb77f0'
+project_id: '6384e1ed2223260645b97ddc'
+model_id: '6384e5c995d18549e0a2ff0b'
+n: 15
+deployment_id: '6384e6ade926f38643be3177'
+sample: 1.0
+grouping_feature: 'HEALTH_SUMMARY_FLAG'
+date: 'PRED_POINT'
+columns: [
+    'AVG_WAU_LAST_12_WEEKS',
+    'GEO',
+    'INDUSTRY',
+    'PARENT_MULTIYEAR',
+    'TOTAL_ACTIVE_ARR', 
+    'WEEKS_AS_CUSTOMER',
+    'DEPLOYMENTS_CREATED_LAST_12_WEEKS',
+    'PROJECTS_CREATED_LAST_12_WEEKS',
+    'TS_PROJECTS_CREATED_LAST_12_WEEKS',
+    'WEEKS_WITH_PREDS_LAST_12_WEEKS',
+    'HEALTH_SUMMARY_FLAG',
+    'PRED_POINT',
+    'ACCOUNT_NAME',
+    ]
